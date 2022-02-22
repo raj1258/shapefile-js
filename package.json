@@ -1,6 +1,6 @@
 {
   "name": "shape2json",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "A binary shapefile loader, for javascript. Not many caveats",
   "main": "lib/index.js",
   "repository": {
